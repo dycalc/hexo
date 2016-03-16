@@ -6,7 +6,7 @@
 title: Hexo
 subtitle:
 description:
-author: John Doe
+author: Ding Yi
 language:
 timezone:
 
@@ -100,7 +100,7 @@ mathjax: true
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /img/avator.png
 
 #你的头像url
 avatar: ""
@@ -128,4 +128,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 正在学js的小丁
